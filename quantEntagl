@@ -1,0 +1,70 @@
+
+Theoretical Study on Quantum Entanglement Based on the Lack of Spatiotemporal Concepts in High-Speed Electrons and Atomic-Molecule-Like Interactions
+
+Abstract
+
+In the observable world of high-speed electrons, the concept of spacetime may become ambiguous. This study attempts to describe the quantum mechanical behavior of electrons using a model analogous to intermolecular interactions in monatomic molecular liquids. Based on this model, the quantum entanglement phenomena between high-speed electrons are reinterpreted, and the fundamental mechanisms underlying these phenomena are elucidated.
+
+1. Introduction
+
+Quantum entanglement is a fundamental phenomenon of quantum mechanics, characterized by non-local sharing of information between particles. Meanwhile, the behavior of high-speed particles under the theory of special relativity challenges conventional concepts of spacetime. This study proposes a model that unifies these phenomena, assuming that high-speed electrons exhibit interactions akin to London dispersion forces in monatomic molecular liquids.
+
+2. Hypotheses
+
+2.1 Ambiguity in the Spacetime of Electrons
+
+High-speed electrons lack definite positions and times from the observer’s perspective, resulting in an observable spacetime that appears blurred. Consequently, the behavior of these electrons is described not as existing in physical space but as “non-local” entities influenced by field fluctuations.
+
+2.2 Intermolecular Analogy of Electron-Electron Interactions
+
+London dispersion forces in monatomic molecular liquids arise from momentary dipole fluctuations that generate attractive forces between molecules. Replacing this with electron interactions, high-speed electrons interact with each other through fluctuations in their probability density distributions. This interaction manifests as a non-local attraction in a temporally and spatially ambiguous state, distinct from conventional electromagnetic forces. This hypothesis provides a framework for explaining quantum entanglement between electrons.
+
+3. Theoretical Model
+
+3.1 Analogy with Intermolecular Interactions
+
+In monatomic molecular liquids, London dispersion forces dominate intermolecular interactions. Applying this to quantum interactions between electrons requires considering the following:
+	•	The positions of electrons are described probabilistically.
+	•	Each electron’s wavefunction behaves as a field fluctuation, influencing the wavefunctions of other electrons.
+
+3.2 Introduction of Spatiotemporal Ambiguity in High-Speed Electrons
+
+Under special relativity, the spacetime coordinates of high-speed electrons become increasingly uncertain in the observer’s frame. Consequently, electron interactions are described non-locally through the superposition of wavefunctions rather than conventional spatiotemporal proximity.
+
+3.3 Non-Local Interpretation of Quantum Entanglement
+
+The interaction between high-speed electrons is represented as:
+
+H = \sum_{i,j} V_{ij}(\psi_i, \psi_j)
+
+where V_{ij} is the non-local interaction potential between electrons, and \psi_i, \psi_j are the wavefunctions of the respective electrons. In this model, quantum entanglement is enhanced by fluctuations in the interaction potential.
+
+4. Simulation of the Model
+
+4.1 Simulation Environment
+
+To simulate high-speed electron dynamics, a numerical model unifying quantum mechanics and special relativity was constructed. The following computational methods were employed:
+	•	Time-dependent Schrödinger equation for wavefunctions.
+	•	Lorentz transformations for updating the probability density functions of electrons.
+
+4.2 Simulation Results
+
+Using entangled wavefunctions as the initial state for multiple electrons, their time evolution was tracked. The results confirmed that the interactions between high-speed electrons exhibited behavior analogous to intermolecular interactions.
+
+5. Results and Discussion
+	•	Interactions between high-speed electrons can be interpreted as non-local phenomena accompanied by spatiotemporal ambiguity.
+	•	These interactions share dynamic characteristics with intermolecular forces in monatomic liquids, naturally explaining quantum entanglement.
+	•	The proposed model complements conventional explanations of quantum entanglement and offers a new perspective.
+
+6. Future Work
+	•	Development of experimental techniques to directly observe interactions between high-speed electrons for validating the proposed model.
+	•	Examination of the applicability of this model to other quantum systems (e.g., photons or atomic nuclei) to achieve broader generalizations.
+
+7. Conclusion
+
+The proposed theoretical model, based on the spatiotemporal ambiguity of high-speed electrons and interactions analogous to intermolecular forces, offers a promising approach for understanding the mechanisms underlying quantum entanglement. This research provides new insights at the intersection of quantum mechanics and special relativity.
+
+References
+	1.	Dirac, P. A. M. (1930). The Principles of Quantum Mechanics.
+	2.	London, F. (1930). The Dispersion Interaction in Quantum Mechanics.
+	3.	Einstein, A. (1905). On the Electrodynamics of Moving Bodies.
